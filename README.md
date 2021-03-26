@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Robson Locatelli</h1>
-<h3>FullStack Developer, Master's degree in Computing Science and graduate in Analysis and Systems development</h3>
+<h1 align="center">Hi 👋, I'm Robson Locatelli</h1>
+<h3 align="center">FullStack Developer, Master's degree in Computing Science and graduate in Analysis and Systems development</h3>
 
 <div align="center">  
   <i>You can also find me on social networks:</i><br>
@@ -95,5 +95,9 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlocatelli9)<br/>
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlocatelli9)
+- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlocatelli9&show_icons=true&theme=synthwave)
+</div>
