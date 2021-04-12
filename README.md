@@ -35,7 +35,7 @@
 </a>  <br/>
   
 <a href="https://angular.io" target="_blank"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="80" height="80"/> </a> 
  
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -55,33 +55,33 @@
 <br/>
 
 <a href="https://ionicframework.com" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="80"/> 
 </a> 
 <br/>
 
 <a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
 </a> 
 
 <a href="https://www.php.net" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> 
 </a> 
 
 <br/>
 
 <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
 </a> 
 
 
 <a href="https://www.postgresql.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><br/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/><br/> 
 </a> 
 
 <br/>
 
 <a href="https://insomnia.rest/" target="_blank"> 
-<img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="60" height="60"/> 
+<img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="100" height="100"/> 
 </a> 
 
 
