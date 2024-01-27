@@ -11,5 +11,3 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlocatelli9)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlocatelli9&show_icons=true&theme=synthwave)
-
