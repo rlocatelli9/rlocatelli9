@@ -9,7 +9,9 @@
   </a>
 </div>
 <br/>
-
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlocatelli9)<br/>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlocatelli9)
+<br/>
+
 </div>
